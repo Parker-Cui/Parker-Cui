@@ -17,6 +17,6 @@
 - PS、AI、PR、Final Cut Pro、Motion
 
 ### 我的主页
-- CSDN：[https://blog.csdn.net/2401_87611](https://blog.csdn.net/2401_87611)
+- CSDN：[https://blog.csdn.net/2401_87611341](https://blog.csdn.net/2401_87611341)
 - Gitee：[https://gitee.com/cui_pe_ng_fei](https://gitee.com/cui_pe_ng_fei)
 - 稀土掘金：[https://juejin.cn/user/2276467567770442/posts](https://juejin.cn/user/2276467567770442/posts)
