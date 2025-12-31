@@ -3,23 +3,18 @@
 大二软件工程在读，主研算法，副业摄影；
 我是个“啥都沾点但不精通”的萌新社畜，喜欢写文、摄影、剪辑，也爱做**简洁美观+性能能打的网站**。
 
-
 ### 关于我
 - 做事原则：有自己的审美，热衷创造；准全栈选手，但技术偏保守——“用合适的技术解决业务问题”
 
-
 ### 技术栈
 #### 前端
-- CSS3、JavaScript、TypeScript
-- Vue 3、React、Svelte、小程序
+- CSS3、JavaScript、TypeScript、Vue 3、React、Svelte、小程序
 
 #### 后端
-- Java、Express、KoaJS、NodeJS
-- MariaDB、Redis
+- Java、Express、KoaJS、NodeJS、MariaDB、Redis
 
 #### 工具&其他
 - PS、AI、PR、Final Cut Pro、Motion
-
 
 ### 我的主页
 - CSDN：[https://blog.csdn.net/2401_87611](https://blog.csdn.net/2401_87611)
