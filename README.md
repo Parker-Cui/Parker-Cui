@@ -7,14 +7,9 @@
 ### 关于我
  做事原则：有自己的审美，热衷创造；准全栈选手，但技术偏保守——“用合适的技术解决业务问题”
 
-#### 前端
-- CSS3、JavaScript、TypeScript、Vue 3、React、Svelte、小程序
-
-#### 后端
-- Java、Express、KoaJS、NodeJS、MariaDB、Redis
-
-#### 工具&其他
-- PS、AI、PR、Final Cut Pro、Motion
+- 前端 (CSS3、JavaScript、TypeScript、Vue 3、React、Svelte、小程序)
+- 后端 (Java、Express、KoaJS、NodeJS、MariaDB、Redis)
+- 其他 (PS、AI、PR、Final Cut Pro、Motion)
 
 ### 我的主页
 - CSDN：[https://blog.csdn.net/2401_87611341](https://blog.csdn.net/2401_87611341)
